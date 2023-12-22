@@ -41,17 +41,8 @@ import { commitHash } from '../utils/helpers.js';
 			>
 		</a>
 	</div>
-  <div class="social-links">
-    <p>You're viewing <a href={site['site-url']} class="text-slate-900 dark:text-dark underline decoration-valencia decoration-2 underline-offset-2 hover:bg-valencia hover:text-dark">{site['site-url'].replace("https://", "")}</a> at commit <span class="font-mono"><a href=`https://github.com/kristoffer/kristoffer.github.io/commit/${commitHash}` class="text-slate-900 dark:text-dark underline decoration-valencia decoration-2 underline-offset-2 hover:bg-valencia hover:text-dark">{commitHash}</a></span>.</p>
-    <p class="font-semibold font-serif text-lg text-slate-900 dark:text-dark">Say hello 👋</p>
-    <ul class="flex flex-wrap">
-      { socials.map((social, index) => (
-        <li>
-          {index === (socials.length - 1) ? " or" : ""}
-          <a href={social.href} rel="me" class="text-slate-900 dark:text-dark underline decoration-valencia decoration-2 underline-offset-2 hover:bg-valencia hover:text-dark">{social.title}</a>{index !== (socials.length - 1) ? `,\u00A0` : ""}
-        </li>
-      )) }
-    </ul>
+	<div class="social-links">
+    <p>You're viewing <a href={site['site-url']}>{site['site-url'].replace("https://", "")}</a> at commit <span class="font-mono"><a href=`https://github.com/kristoffer/kristoffer.github.io/commit/${commitHash}`>{commitHash}</a>.</p>
   </div>
 </footer>
 <style>
