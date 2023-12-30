@@ -6,7 +6,7 @@ import { commitHash } from '../utils/helpers.js';
 ---
 
 <footer>
-	&copy; {today.getFullYear()} Kristoffer Egefelt. All rights reserved.
+    <p>You're viewing <a href={site['site-url']}>{site['site-url'].replace("https://", "")}</a> at commit <span class="font-mono"><a href=`https://github.com/kristoffer/kristoffer.github.io/commit/${commitHash}`>{commitHash}</a>.</p>
 	<div class="social-links">
 		<a href="https://m.webtoo.ls/@astro" target="_blank">
 			<span class="sr-only">Follow Astro on Mastodon</span>
@@ -42,8 +42,7 @@ import { commitHash } from '../utils/helpers.js';
 		</a>
 	</div>
 	<div class="social-links">
-    <p>You're viewing <a href={site['site-url']}>{site['site-url'].replace("https://", "")}</a> at commit <span class="font-mono"><a href=`https://github.com/kristoffer/kristoffer.github.io/commit/${commitHash}`>{commitHash}</a>.</p>
-  </div>
+      </div>
 </footer>
 <style>
 	footer {
