@@ -78,10 +78,11 @@ b {
 	font-weight: 700;
 }
 a {
-	color: var(--accent);
+	color: var(--accent-color, gray-dark);
+  text-decoration: underline;
 }
 a:hover {
-	color: var(--accent);
+	color: var(--accent-color, gray);
 }
 p {
 	margin-bottom: 1em;
