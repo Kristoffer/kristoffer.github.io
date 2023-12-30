@@ -6,8 +6,8 @@ import { commitHash } from '../utils/helpers.js';
 ---
 
 <footer>
-    <p>You're viewing <a href={site['site-url']}>{site['site-url'].replace("https://", "")}</a> at commit <span class="font-mono"><a href=`https://github.com/kristoffer/kristoffer.github.io/commit/${commitHash}`>{commitHash}</a>.</p>
 	<div class="social-links">
+		<p>You're viewing <a href={site['site-url']}>{site['site-url'].replace("https://", "")}</a> at commit <span class="font-mono"><a href=`https://github.com/kristoffer/kristoffer.github.io/commit/${commitHash}`>{commitHash}</a>.</p>
 		<a href="https://m.webtoo.ls/@astro" target="_blank">
 			<span class="sr-only">Follow Astro on Mastodon</span>
 			<svg
@@ -41,8 +41,6 @@ import { commitHash } from '../utils/helpers.js';
 			>
 		</a>
 	</div>
-	<div class="social-links">
-      </div>
 </footer>
 <style>
 	footer {
