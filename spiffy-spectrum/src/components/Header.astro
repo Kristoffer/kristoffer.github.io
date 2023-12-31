@@ -9,7 +9,7 @@ import { SITE_TITLE } from "../consts";
     <div class="internal-links">
       <HeaderLink href="/">Home</HeaderLink>
       <HeaderLink href="/blog">Blog</HeaderLink>
-      <HeaderLink href="/about">About</HeaderLink>
+      <HeaderLink href="/blog/about">About</HeaderLink>
     </div>
     <div class="social-links">
       <a href="https://m.webtoo.ls/@astro" target="_blank">
@@ -71,7 +71,7 @@ import { SITE_TITLE } from "../consts";
   }
   nav a.active {
     text-decoration: none;
-    border-bottom-color: var(--accent);
+    border-bottom-color: var(--accent-color, gray);
   }
   .social-links,
   .social-links a {
