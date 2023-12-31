@@ -17,6 +17,7 @@ On a day to day basis I work with the teams at JP/Politikens Hus, where I:
 - Focus on strategies for cost saving, security, and emission control
 - Collaborate across businesses and stakeholders to secure buy-in and define technical vision
 
+
 This is some of the tools I often use:
 
 
@@ -44,20 +45,20 @@ I'm currently focusing on modernising our infrastructure and establishing an Int
 ### Investor at [stagebox.dk](https://stagebox.dk/)
 <span class="text-sm">_Jun 2021 &ndash; Jun 2023_</span>
 
-It was a dream from hell, I learned alot about certain people that I wish could be unlearned.
+It was a dream from hell, I learned alot about people that I wish could be unlearned.
 
 
 ### Consultant at [Altapay A/S](https://altapay.com/)
 <span class="text-sm">_Jan 2020 &ndash; Dec 2022_</span>
 
-Migration from VMWare to AWS.
 Focusing on AWS cloud infrastructure, Elastic Logging and APM. Level 1 PCI compliance.
+Migration from VMWare to AWS.
 
 
 ### Consultant at [Valitor A/S](https://valitor.com)
 <span class="text-sm">_Jan 2017 &ndash; Dec 2019_</span>
 
-Migration from XenServer to VMWare. Level 1 PCI compliance. 
+Migration from XenServer to VMWare. Automation with VMWare. Level 1 PCI compliance. 
 
 
 ### Consultant at [IT OPERATIONS ApS](https://itoperations.dk/)
@@ -73,7 +74,7 @@ Various consultancy and hosting projects:
 ###### Consultant at [Kvadrat](https://kvadrat.dk/) : Textile design 
 ###### Consultant at [bornibyen](https://bornibyen.dk/) : What to do with kids 
 ###### Consultant at [1px](https://1px.com/) : Hosting of partner projects Axoco, Stormfashion, Karmameju, Coloplast etc.
-###### Consultant at [Simplersystems](https://simplersystems.dk/) : Hosting of partner projects Christian-Hansen, Demant, Pandora, Maersk, Issworld, Falck etc. 
+###### Consultant at [Simpler](https://simplersystems.dk/) : Hosting of partner projects Christian-Hansen, Demant, Pandora, Maersk, Issworld, Falck etc. 
 
 
 ### Consultant at FIC Payment/Pensio(https://pensio.com/)
