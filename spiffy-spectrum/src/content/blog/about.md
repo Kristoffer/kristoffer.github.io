@@ -45,13 +45,13 @@ I'm currently focusing on modernising our infrastructure and establishing an Int
 ### Investor at [stagebox.dk](https://stagebox.dk/)
 <span class="text-sm">_Jun 2021 &ndash; Jun 2023_</span>
 
-It was a dream from hell, I learned alot about people that I wish could be unlearned.
+A dream from hell, I learned alot about people that I wish could be unlearned.
 
 
 ### Consultant at [Altapay A/S](https://altapay.com/)
 <span class="text-sm">_Jan 2020 &ndash; Dec 2022_</span>
 
-Focusing on AWS cloud infrastructure, Elastic Logging and APM. Level 1 PCI compliance.
+AWS cloud infrastructure, Elastic Logging and APM. Level 1 PCI compliance.
 Migration from VMWare to AWS.
 
 
@@ -107,4 +107,4 @@ I studied management at [Copenhagen Business Academy](https://cphbusiness.dk/) a
 
 ## Want to know more ?
 
-I have production experience with a lot of techonologies and businesses - [send me an mail](mailto:kristoffer@egefelt.net) and ask for my CV. 
+I have production experience with many techonologies and businesses - [send me an mail](mailto:kristoffer@egefelt.net) and ask for my CV. 
