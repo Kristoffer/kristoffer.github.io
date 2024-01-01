@@ -28,7 +28,7 @@ heroImage: '/drums_hero.jpg'
 ![2021 - Far_Villy_Greece](/2021_Far_Villy_Greece.JPG)
 ##### 2021 - Greece
 ---
-![2020 - Blågårdsplads](/2020_Blågårdsplads.JPG)
+![2020 - Blågårdsplads](/2020_Blaagaardsplads.JPG)
 ##### 2020 - Blågårdsplads
 ---
 ![2019 - Julekort](/2019_Julekort.jpg)
