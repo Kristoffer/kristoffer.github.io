@@ -5,32 +5,28 @@ pubDate: 'Jul 01 2022'
 heroImage: '/drums_hero.jpg'
 ---
 
+
+
 ![2022 - Stagebox3](/2022_Stagebox3.jpeg)
-##### 2022 - Stagebox3
+##### 2022 - Stagebox
 ---
 ![2022 - Stagebox2](/2022_Stagebox2.jpg)
-##### 2022 - Stagebox2
+##### 2022 - Stagebox
 ---
 ![2022 - Stagebox](/2022_Stagebox.jpeg)
 ##### 2022 - Stagebox
 ---
 ![2022 - Amagerbio_Clawfinger](/2022_Amagerbio_Clawfinger.jpg)
-##### 2022 - Amagerbio_Clawfinger
+##### 2022 - Amagerbio with Clawfinger
 ---
-![2021 - Stagebox](/2021_Stagebox.jpeg)
-##### 2021 - Stagebox
----
-![2021 - Øvelokale](/2021_Øvelokale.jpeg)
+![2021 - Øvelokale](/2020_Øvelokale.jpg)
 ##### 2021 - Øvelokale
 ---
 ![2021 - Nighthawk](/2021_Nighthawk.JPG)
 ##### 2021 - Nighthawk
 ---
 ![2021 - Far_Villy_Greece](/2021_Far_Villy_Greece.JPG)
-##### 2021 - Far_Villy_Greece
----
-![2020 - Øvelokale](/2020_Øvelokale.jpg)
-##### 2020 - Øvelokale
+##### 2021 - Greece
 ---
 ![2020 - Blågårdsplads](/2020_Blågårdsplads.JPG)
 ##### 2020 - Blågårdsplads
@@ -39,25 +35,25 @@ heroImage: '/drums_hero.jpg'
 ##### 2019 - Julekort
 ---
 ![2019 - Ferry_to_voxhall](/2019_Ferry_to_voxhall.jpg)
-##### 2019 - Ferry_to_voxhall
+##### 2019 - Voxhall
 ---
 ![2018 - copenhell2](/2018_copenhell2.jpg)
-##### 2018 - copenhell2
+##### 2018 - Copenhell
 ---
 ![2018 - copenhell](/2018_copenhell.jpg)
-##### 2018 - copenhell
+##### 2018 - Copenhell
 ---
 ![2018 - Hotelcecil](/2018_Hotelcecil.jpg)
-##### 2018 - Hotelcecil
+##### 2018 - Hotel Cecil
 ---
 ![2018 - Hotelcecil](/2018_Hotelcecil.jpeg)
-##### 2018 - Hotelcecil
+##### 2018 - Office
 ---
 ![2017 - Video](/2017_Video.jpg)
 ##### 2017 - Video
 ---
 ![2017 - TwelveFootTour](/2017_TwelveFootTour.jpg)
-##### 2017 - TwelveFootTour
+##### 2017 - Twelve Foot Ninja Tour
 ---
 ![2017 - Thailand](/2017_Thailand.JPG)
 ##### 2017 - Thailand
@@ -66,7 +62,7 @@ heroImage: '/drums_hero.jpg'
 ##### 2017 - SXSW
 ---
 ![2017 - Panelvaerkstedet](/2017_Panelvaerkstedet.jpg)
-##### 2017 - Panelvaerkstedet
+##### 2017 - Panelværkstedet
 ---
 ![2017 - Hellsinki](/2017_Hellsinki.jpg)
 ##### 2017 - Hellsinki
@@ -80,11 +76,14 @@ heroImage: '/drums_hero.jpg'
 ![2017 - Beta](/2017_Beta.jpg)
 ##### 2017 - Beta
 ---
+![2016 - Tokyo_Hokuo_Music_Festival](/2014_Tokyo_Hokuo_Music_Festival.jpg)
+##### 2014 - Tokyo
+---
 ![2016 - Tokyo_kyllingsushi](/2016_Tokyo_kyllingsushi.JPG)
-##### 2016 - Tokyo_kyllingsushi
+##### 2016 - Kylling sushi
 ---
 ![2016 - Tokyo_Astrohall](/2016_Tokyo_Astrohall.jpg)
-##### 2016 - Tokyo_Astrohall
+##### 2016 - Astro Hall - Hokou Music Festival
 ---
 ![2016 - Thailand](/2016_Thailand.JPG)
 ##### 2016 - Thailand
@@ -93,10 +92,10 @@ heroImage: '/drums_hero.jpg'
 ##### 2016 - Roskilde
 ---
 ![2016 - Doofenshmirtz_Ondskabs_Aktieselskab](/2016_Doofenshmirtz_Ondskabs_Aktieselskab.jpg)
-##### 2016 - Doofenshmirtz_Ondskabs_Aktieselskab
+##### 2016 - Doofenshmirtz Ondskabs Aktieselskab
 ---
 ![2015 - Techfest2](/2015_Techfest2.JPG)
-##### 2015 - Techfest2
+##### 2015 - Techfest
 ---
 ![2015 - Techfest](/2015_Techfest.JPG)
 ##### 2015 - Techfest
@@ -104,26 +103,23 @@ heroImage: '/drums_hero.jpg'
 ![2015 - Aeroe](/2015_Aeroe.JPG)
 ##### 2015 - Aeroe
 ---
-![2014 - Tokyo_Hokuo_Music_Festival](/2014_Tokyo_Hokuo_Music_Festival.jpg)
-##### 2014 - Tokyo_Hokuo_Music_Festival
----
 ![2014 - Terrasse](/2014_Terrasse.gif)
-##### 2014 - Terrasse
+##### 2014 - Ny Terrasse
 ---
 ![2014 - Familien](/2014_Familien.JPG)
-##### 2014 - Familien
+##### 2014 - Familie kollage
 ---
-![2014 - Amagerbio_Meshuggah](/2014_Amagerbio_Meshuggah.jpg)
-##### 2014 - Amagerbio_Meshuggah
+![2022 - Amagerbio_Clawfinger](/2022_Amagerbio_Meshuggah.jpg)
+##### 2014 - Amagerbio Meshuggah
 ---
 ![2014 - 883](/2014_883.JPG)
 ##### 2014 - 883
 ---
 ![2013 - Vega_Parkwaydrive](/2013_Vega_Parkwaydrive.jpg)
-##### 2013 - Vega_Parkwaydrive
+##### 2013 - Vega Parkwaydrive
 ---
 ![2013 - Netgroup2](/2013_Netgroup2.JPG)
-##### 2013 - Netgroup2
+##### 2013 - Netgroup
 ---
 ![2013 - Netgroup](/2013_Netgroup.JPG)
 ##### 2013 - Netgroup
@@ -141,13 +137,13 @@ heroImage: '/drums_hero.jpg'
 ##### 2012 - Netgroup
 ---
 ![2011 - Therock_ThreatSignal](/2011_Therock_ThreatSignal.jpg)
-##### 2011 - Therock_ThreatSignal
+##### 2011 - The Rock Threat Signal
 ---
 ![2011 - Schweiz_Sybreed](/2011_Schweiz_Sybreed.jpg)
-##### 2011 - Schweiz_Sybreed
+##### 2011 - Schweiz sybreed
 ---
 ![2010 - Farum_Stadion](/2010_Farum_Stadion.jpg)
-##### 2010 - Farum_Stadion
+##### 2010 - Farum stadion
 ---
 ![2009 - Thailand](/2009_Thailand.jpeg)
 ##### 2009 - Thailand
@@ -161,12 +157,12 @@ heroImage: '/drums_hero.jpg'
 ![2007 - Aeroe](/2007_Aeroe.jpg)
 ##### 2007 - Aeroe
 ---
-![2000 - Filmskolen2](/2000_Filmskolen2.jpg)
-##### 2000 - Filmskolen2
----
 ![2000 - Filmskolen](/2000_Filmskolen.JPG)
+##### 2002 - Filmskolen
+---
+![2000 - Filmskolen2](/2000_Filmskolen2.jpg)
 ##### 2000 - Filmskolen
 ---
 ![1998 - Farum](/1998_Farum.JPG)
-##### 1998 - Farum
+##### 1996 - Farum
 ---

@@ -9,7 +9,7 @@ heroImage: '/ccna_hero.jpeg'
 
 I'm a hands-on infrastructure architect and technical leader with more than two decades of experience across agencies, fintech, the public sector, startups and entrepreneurship.
 
-On a day to day basis I work with the teams at JP/Politikens Hus, where I:
+Currently I work with teams and stakeholders at JP/Politikens Hus, where I:
 - Help define and implement the company's technical strategy
 - Modernize legacy platforms and infrastructure
 - Analyze and plan hybrid infrastructure migrations
@@ -39,13 +39,17 @@ Some of my work is open source on [GitHub](https://github.com/kristoffer)
 
 <span class="text-sm">_Dec 2022 &ndash; present_</span>
 
-I'm currently focusing on modernising our infrastructure and establishing an Internal Developer Platform.
+I'm currently focusing on modernising our hybrid infrastructure and establishing an Internal Developer Platform:
 
+- Automated environment provisioning 
+- Automated security baselines
+- CI/CD pipelines for infrastructure configuration and deployment
+- Observability
 
 ### Investor at [stagebox.dk](https://stagebox.dk/)
 <span class="text-sm">_Jun 2021 &ndash; Jun 2023_</span>
 
-A dream from hell, I learned alot about people that I wish could be unlearned.
+A dream, a hell, a spiritual inquiry.
 
 
 ### Consultant at [Altapay A/S](https://altapay.com/)
@@ -73,6 +77,7 @@ Various consultancy and hosting projects:
 ###### Consultant at [Socialsquare](https://socialsquare.dk/) : Strategy consulting
 ###### Consultant at [Kvadrat](https://kvadrat.dk/) : Textile design 
 ###### Consultant at [bornibyen](https://bornibyen.dk/) : What to do with kids 
+###### Consultant at [Åben Virksomhed](https://aabenvirksomhed.dk/om/) : Business vs School collaboration
 ###### Consultant at [1px](https://1px.com/) : Hosting of partner projects Axoco, Stormfashion, Karmameju, Coloplast etc.
 ###### Consultant at [Simpler](https://simplersystems.dk/) : Hosting of partner projects Christian-Hansen, Demant, Pandora, Maersk, Issworld, Falck etc. 
 
@@ -103,7 +108,7 @@ Make anicent gaming rigs able to play advanced games like [Stunt Island](https:/
 
 ---
 
-I studied management at [Copenhagen Business Academy](https://cphbusiness.dk/) and [Level 1 Snowboard instructor](https://www.siaaustria.com/snowboard-instructor-course/) in Austria in 2006
+I studied management at [Copenhagen Business Academy](https://cphbusiness.dk/) and [Level 1 Snowboard instructor](https://www.siaaustria.com/snowboard-instructor-course/) in Austria in 200 in 2005.
 
 ## Want to know more ?
 
