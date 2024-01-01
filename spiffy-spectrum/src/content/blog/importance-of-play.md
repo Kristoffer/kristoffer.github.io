@@ -5,22 +5,23 @@ pubDate: 'Jul 01 2022'
 heroImage: '/drums_hero.jpg'
 ---
 
-
-
 ![2022 - Stagebox3](/2022_Stagebox3.jpeg)
-###### 2022 - Stagebox
+###### 2023 - Stagebox
 ---
 ![2022 - Stagebox2](/2022_Stagebox2.jpg)
-###### 2022 - Stagebox
+###### 2023 - Stagebox
 ---
 ![2022 - Stagebox](/2022_Stagebox.jpeg)
-###### 2022 - Stagebox
+###### 2023 - Stagebox
 ---
 ![2022 - Amagerbio_Clawfinger](/2022_Amagerbio_Clawfinger.jpg)
 ###### 2022 - Amagerbio with Clawfinger
 ---
 ![2021 - Øvelokale](/2020_Øvelokale.jpg)
 ###### 2021 - Øvelokale
+---
+[![2022 - book](https://images.blinkist.io/images/books/60fe5e096cee070007de23bf/1_1/470.jpg)](https://www.blinkist.com/en/books/all-work-no-play-en)
+###### 2021 - Blinkist
 ---
 ![2021 - Nighthawk](/2021_Nighthawk.JPG)
 ###### 2021 - Nighthawk
