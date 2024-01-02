@@ -18,7 +18,7 @@ Currently I work with teams and stakeholders at JP/Politikens Hus, where I:
 - Collaborate across businesses and stakeholders to secure buy-in and define technical vision
 
 
-This is some of the tools I often use:
+I often use these things:
 
 
 | Purpose              | Thing                                                                                                                    |
