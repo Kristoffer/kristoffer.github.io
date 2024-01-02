@@ -14,7 +14,7 @@ Currently I work with teams and stakeholders at JP/Politikens Hus, where I:
 - Modernize legacy platforms and infrastructure
 - Analyze and plan hybrid infrastructure migrations
 - Build and maintain infrastructure for digital product teams
-- Focus on strategies for cost saving, security, and emission control
+- Focus on strategies for cost saving, security, business continuity and emission control
 - Collaborate across businesses and stakeholders to secure buy-in and define technical vision
 
 
