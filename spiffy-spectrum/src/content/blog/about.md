@@ -18,7 +18,7 @@ Currently I work with teams and stakeholders at JP/Politikens Hus, where I:
 - Collaborate across businesses and stakeholders to secure buy-in and define technical vision
 
 
-I often use these things:
+For these purposes I often use these things:
 
 
 | Purpose              | Thing                                                                                                                    |
@@ -82,20 +82,20 @@ Various consultancy and hosting projects:
 ###### Consultant at [Simpler](https://simplersystems.dk/) : Hosting of partner projects Christian-Hansen, Demant, Pandora, Maersk, Issworld, Falck etc. 
 
 
-### Consultant at FIC Payment/Pensio(https://pensio.com/)
+### Consultant at FIC Payment/[Pensio A/S](https://pensio.com/)
 <span class="text-sm">_Jun 2008 &ndash; Dec 2012_</span>
 
 Establish and maintain PCI certified infrastructure.  
 
 
 
-### IT Operations Manager at [ad pepper Media group](https://adpepper.com/)
+### IT Operations Manager at [ad pepper Media Group](https://adpepper.com/)
 <span class="text-sm">_Jan 2006 &ndash; Dec 2008_</span>
 
 Maintain cdn and advertising network
 
 
-### System administrator at the [Nationa Film School of Denmark](https://filmskolen.dk)
+### System administrator at the [National Film School of Denmark](https://filmskolen.dk)
 <span class="text-sm">_Jan 1999 &ndash; Dec 2006_</span>
  
 Transition from analog to digital TV and movie production.
@@ -108,7 +108,7 @@ Make anicent gaming rigs able to play advanced games like [Stunt Island](https:/
 
 ---
 
-I studied management at [Copenhagen Business Academy](https://cphbusiness.dk/) and [Level 1 Snowboard instructor](https://www.siaaustria.com/snowboard-instructor-course/) in Austria in 200 in 2005.
+I studied management at [Copenhagen Business Academy](https://cphbusiness.dk/) and [Level 1 Snowboard instructor](https://www.siaaustria.com/snowboard-instructor-course/) in Austria in 2005.
 
 ## Want to know more ?
 
