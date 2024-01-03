@@ -108,7 +108,7 @@ Make anicent gaming rigs able to play advanced games like [Stunt Island](https:/
 
 ---
 
-I studied management at [Copenhagen Business Academy](https://cphbusiness.dk/) and [Level 1 Snowboard instructor](https://www.siaaustria.com/snowboard-instructor-course/) in Austria in 2005.
+I studied management at [Copenhagen Business Academy](https://cphbusiness.dk/) 2004-2006 and [Level 1 Snowboard instructor](https://www.siaaustria.com/snowboard-instructor-course/) in Austria in 2005.
 
 ## Want to know more ?
 
