@@ -55,9 +55,8 @@ A dream, a hell, a spiritual inquiry.
 ### Consultant at [Altapay A/S](https://altapay.com/)
 <span class="text-sm">_Jan 2020 &ndash; Dec 2022_</span>
 
-Altapay is a omnichannel payment provider
+Altapay A/S is a Level 1 PCI compliant omnichannel payment provider
 
-- Level 1 PCI compliant infrastructure
 - Infrastructure migration from VMWare to AWS.
 - AWS cloud infrastructure automation
 - Azure authorization integration
@@ -67,12 +66,11 @@ Altapay is a omnichannel payment provider
 ### Consultant at [Valitor A/S](https://valitor.com)
 <span class="text-sm">_Jan 2017 &ndash; Dec 2019_</span>
 
-Danish online payment provider Pensio A/S was acquired by Icelandic fintech Valitor in 2016, now [Rapyd](rapyd.net)
+Online payment provider Pensio A/S was acquired by fintech Valitor in 2016, now [Rapyd](rapyd.net)
 
-- Migration from XenServer to VMWare. 
-- Automation with VMWare. 
-- Level 1 PCI compliant environment. 
-- Automation of provisioning and on-prem legacy network.
+- Migration from XenServer to VMWare.
+- WMWare automation 
+- Automated provisioning 
 
 
 ### Consultant at [IT OPERATIONS ApS](https://itoperations.dk/)
@@ -101,7 +99,7 @@ Establish security policy and maintain PCI compliance on payment gateway infrast
 ### IT Operations Manager at [ad pepper Media Group](https://adpepper.com/)
 <span class="text-sm">_Jan 2006 &ndash; Dec 2008_</span>
 
-Maintain cdn and advertising network as Team lead
+Maintain CDN and advertising network as Team lead for hybrid ops team.
 
 
 ### System administrator at the [National Film School of Denmark](https://filmskolen.dk)
