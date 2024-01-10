@@ -93,7 +93,7 @@ Various consultancy and hosting projects:
 ### Consultant at FIC Payment/[Pensio A/S](https://pensio.com/)
 <span class="text-sm">_Jun 2008 &ndash; Dec 2012_</span>
 
-Establish security policy and maintain PCI compliance on payment gateway infrastructure.  
+Define security policy and establish and maintain PCI compliance on payment gateway infrastructure.  
 
 
 ### IT Operations Manager at [ad pepper Media Group](https://adpepper.com/)
