@@ -55,14 +55,24 @@ A dream, a hell, a spiritual inquiry.
 ### Consultant at [Altapay A/S](https://altapay.com/)
 <span class="text-sm">_Jan 2020 &ndash; Dec 2022_</span>
 
-AWS cloud infrastructure, Elastic Logging and APM. Level 1 PCI compliance.
-Migration from VMWare to AWS.
+Altapay is a omnichannel payment provider
+
+- Level 1 PCI compliant infrastructure
+- Infrastructure migration from VMWare to AWS.
+- AWS cloud infrastructure automation
+- Azure authorization integration
+- Elastic Logging and APM. 
 
 
 ### Consultant at [Valitor A/S](https://valitor.com)
 <span class="text-sm">_Jan 2017 &ndash; Dec 2019_</span>
 
-Migration from XenServer to VMWare. Automation with VMWare. Level 1 PCI compliance. 
+Danish online payment provider Pensio A/S was acquired by Icelandic fintech Valitor in 2016, now [Rapyd](rapyd.net)
+
+- Migration from XenServer to VMWare. 
+- Automation with VMWare. 
+- Level 1 PCI compliant environment. 
+- Automation of provisioning and on-prem legacy network.
 
 
 ### Consultant at [IT OPERATIONS ApS](https://itoperations.dk/)
@@ -85,14 +95,13 @@ Various consultancy and hosting projects:
 ### Consultant at FIC Payment/[Pensio A/S](https://pensio.com/)
 <span class="text-sm">_Jun 2008 &ndash; Dec 2012_</span>
 
-Establish and maintain PCI certified infrastructure.  
-
+Establish security policy and maintain PCI compliance on payment gateway infrastructure.  
 
 
 ### IT Operations Manager at [ad pepper Media Group](https://adpepper.com/)
 <span class="text-sm">_Jan 2006 &ndash; Dec 2008_</span>
 
-Maintain cdn and advertising network
+Maintain cdn and advertising network as Team lead
 
 
 ### System administrator at the [National Film School of Denmark](https://filmskolen.dk)
