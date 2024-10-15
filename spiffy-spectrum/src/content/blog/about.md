@@ -5,7 +5,7 @@ pubDate: 'Jul 08 2022'
 heroImage: '/ccna_hero.jpeg'
 ---
 
-👋 Hello! I’m Kristoffer. I like to build infrastructure things and business value. 
+👋 Hello! I’m Kristoffer. I like to build infrastructure as products. 
 
 I'm a hands-on infrastructure architect and technical leader with more than two decades of experience across agencies, fintech, the public sector, startups and entrepreneurship.
 
